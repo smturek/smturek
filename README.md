@@ -1,4 +1,10 @@
-### Hi there 👋
+# Hi there 👋, I'm Steven Turek
+
+### 💻 I'm a Full-Stack Software Engineer who is obsessed with learning new things and solving complex problems.
+
+### 👾 I enjoy creating games in my spare time which is the majority of what you will find here.
+
+### 📧 You can reach me by email at smturek 'at' gmail 'dot' com
 
 <!--
 **smturek/smturek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
